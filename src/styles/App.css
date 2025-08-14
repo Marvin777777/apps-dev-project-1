@@ -1,0 +1,19 @@
+.app {
+  font-family: "Poppins", sans-serif;
+  padding: 20px;
+  text-align: center;
+  background: linear-gradient(180deg, #f0fff4, #e6ffee); /* Soft mint gradient */
+  min-height: 100vh;
+}
+
+h1 {
+  color: #4CAF50;
+  text-shadow: 1px 1px 0 #d6f5d6;
+}
+
+.product-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 18px;
+}
